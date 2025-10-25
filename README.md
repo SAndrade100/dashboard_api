@@ -1,5 +1,9 @@
 # README.md
 
+## Sobre este projeto
+
+Admito ser uma relíquia esse projeto, deixo-o guardado apenas por recordação, foi um dos projetos apresentados durante minha primeira entrevista de emprego (ao menos a primeira em que fui aprovado) e deixo como recordação da gratidão a Deus
+
 # NestJS API Project
 
 This is a NestJS API project designed for deployment on Vercel. It serves as a backend application that handles user operations and provides a structured way to manage configurations and services.
